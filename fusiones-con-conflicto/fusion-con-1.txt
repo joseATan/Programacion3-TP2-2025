@@ -1,9 +1,10 @@
-linea 1
+linea A
 linea 3
 linea 4
 comentario 1
-comentario 2
-comentario 4
 comentario 5
 comentario 6
 linea 5
+nota 1
+linea 5
+parrafo 11
